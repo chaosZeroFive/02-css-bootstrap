@@ -2,6 +2,22 @@
     background-color: #05A094;
 }
 
+.projectCard{
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
+
+.card-img-top{
+    display: inline-block;
+    height: 215px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.card-img-top img{
+    width: 100%;
+}
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
