@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<favorite name="portfolio" value="https://chaoszerofive.github.io/"/>
 <favorite name="portfolio.about" value="https://chaoszerofive.github.io/about.html"/>
-<favorite name="portfolio.experience" value="https://chaoszerofive.github.io/experience.html"/>
-<favorite name="portfolio.projects" value="https://chaoszerofive.github.io/projects.html"/>
-<favorite name="guessing-game" value="https://chaoszerofive.github.io/03-guessingGame/"/>
-<favorite name="crystal-collector" value="https://chaoszerofive.github.io/04-jquery/"/>
-<favorite name="trivia-game" value="https://chaoszerofive.github.io/05-timers/"/>
-<favorite name="portfolio.contact" value="https://chaoszerofive.github.io/contact.html"/>
+<favorite_folder name="portfolio" state="expanded">
+</favorite_folder>
