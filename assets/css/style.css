@@ -15,8 +15,14 @@
     overflow: hidden;
 }
 
+.card-img-overlay{
+}
+
 .card-img-top img{
     width: 100%;
+}
+
+.hover-text{
 }
 
 /* Smartphones (portrait and landscape) ----------- */
